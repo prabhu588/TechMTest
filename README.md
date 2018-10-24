@@ -1,7 +1,7 @@
 # Coding Quiz
 
 ## Intro
-This project contains a simple REST API built on Spring Boot that has been forked from [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/).
+This project contains a simple REST API built on Spring Boot that has been forked from [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/). 
 
 The aim of this exercise is to implement a web service that can determine whether words are either a palindrome or an anagram of a palindrome.
 
